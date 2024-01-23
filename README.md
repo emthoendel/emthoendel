@@ -2,9 +2,10 @@
 ![alt text][mccit]
 
 ### Education
-* B.S. in Management Information Systems from University of Nebraska at Omaha
-* M.A. in Information Science and Learning Technology from University of Misouri - Columbia
-
+<dl>
+<dt>B.S. in Management Information Systems</dt><dd>University of Nebraska at Omaha</dd>
+<dt>M.A. in Information Science and Learning Technology</dt><dd>University of Misouri - Columbia</dd>
+</dl>
 
 ### Work Experience
 <dl>
