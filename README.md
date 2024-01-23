@@ -41,6 +41,10 @@
 <img src="logos/github.png" height=50px alt="GitHub">
 <img src="logos/mongodb.png" height=50px alt="MongoDB" >
 <img src="logos/rstudio.png" height=50px alt="R Studio">
+<img src="logos/mssql.png" height=50px alt="Microsoft SQL Server">
+<img src="logos/mysql.png" height=50px alt="MySQL">
+<img src="logos/oracle.png" height=50px alt="Oracle">
+<img src="logos/python.png" height=50px alt="Python">
 
 
 [mccit]: mccitlogo.png "MCC IT Logo"
