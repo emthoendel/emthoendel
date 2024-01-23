@@ -9,21 +9,24 @@
 
 
 ### Work Experience
-#### Instructor and Program Lead, Metropolitan Community College
-...Omaha, Ne
-...August 2019 to present
+<dl>
+<dt>Instructor, Metropolitan Community College</dt>
+<dd>Omaha, Ne</dd>
+<dd>August 2019 to present</dd>
 
-#### Online Adjunct Instructor
-...Peru State College, Peru, Ne	
-...Jan 2014 - present
+<dt>Online Adjunct Instructor, Peru State College</dt>
+<dd>Peru, Ne</dd>
+<dd>Jan 2014 - present</dd>
 
-##### Instructor, Iowa Western Community College	
-...Council Bluffs, IA
-...June 2018 - May 2019
+<dt>Instructor, Iowa Western Community College</dt>
+<dd>Council Bluffs, IA</dd>
+<dd>June 2018 - May 2019</dd>
 
-#### Systems Administrator and Data Specialist, 
-...Catholic Charities, Omaha, Ne	
-...Jan 2014 – May 2018
+<dt>Systems Administrator and Data Specialist, Catholic Charities</dt>
+<dd>Omaha, Ne</dd>
+<dd>Jan 2014 – May 2018</dd>
+
+</dl>
 
 ### Projects
 
