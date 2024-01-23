@@ -37,7 +37,7 @@
 * NISOD Excellence in Teaching Award Recipient 2023
 
 ### Technical Stack
-<div>
+<div style="text-align: center;">
 <p>
 <img src="logos/oracle.png" width=100px alt="Oracle">&nbsp; 
 <img src="logos/mssql.png" width=100px alt="Microsoft SQL Server">&nbsp; 
