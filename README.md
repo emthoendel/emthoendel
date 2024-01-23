@@ -1,4 +1,5 @@
-## Instructor & Program Lead
+## Instructor
+## Database and Data Science Program Lead
 ![alt text][mccit]
 
 ### Education
