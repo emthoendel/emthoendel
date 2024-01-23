@@ -38,19 +38,19 @@
 
 ### Technical Stack
 <div style="text-align: center;">
-<div>
+<p>
 <img src="logos/aws.png" width=100px alt="AWS"> &nbsp; 
 <img src="logos/github.png" width=100px alt="GitHub">&nbsp; 
 <img src="logos/mongodb.png" width=100px alt="MongoDB" >&nbsp; 
-</div><div>
+</p><p>
 <img src="logos/rstudio.png" width=100px alt="R Studio">&nbsp; 
 <img src="logos/mssql.png" width=100px alt="Microsoft SQL Server">&nbsp; 
 <img src="logos/mysql.png" width=100px alt="MySQL">&nbsp; 
-</div><div>
+</p><p>
 <img src="logos/oracle.png" width=100px alt="Oracle">&nbsp; 
 <img src="logos/python.png" width=100px alt="Python">&nbsp; 
 <img src="logos/tableau.png" width=100px alt="Tableau">&nbsp; 
-</div>
+</p>
 </div>
 
 [mccit]: mccitlogo.png "MCC IT Logo"
