@@ -37,15 +37,15 @@
 * NISOD Excellence in Teaching Award Recipient 2023
 
 ### Technical Stack
-<img src="logos/aws.png" height=50px alt="AWS">
-<img src="logos/github.png" height=50px alt="GitHub">
-<img src="logos/mongodb.png" height=50px alt="MongoDB" >
-<img src="logos/rstudio.png" height=50px alt="R Studio">
-<img src="logos/mssql.png" height=50px alt="Microsoft SQL Server">
-<img src="logos/mysql.png" height=50px alt="MySQL">
-<img src="logos/oracle.png" height=50px alt="Oracle">
-<img src="logos/python.png" height=50px alt="Python">
-<img src="logos/tableau.png" height=50px alt="Tableau">
+<img src="logos/aws.png" height=50px alt="AWS"> &nbsp; 
+<img src="logos/github.png" height=50px alt="GitHub">&nbsp; 
+<img src="logos/mongodb.png" height=50px alt="MongoDB" >&nbsp; 
+<img src="logos/rstudio.png" height=50px alt="R Studio">&nbsp; 
+<img src="logos/mssql.png" height=50px alt="Microsoft SQL Server">&nbsp; 
+<img src="logos/mysql.png" height=50px alt="MySQL">&nbsp; 
+<img src="logos/oracle.png" height=50px alt="Oracle">&nbsp; 
+<img src="logos/python.png" height=50px alt="Python">&nbsp; 
+<img src="logos/tableau.png" height=50px alt="Tableau">&nbsp; 
 
 
 [mccit]: mccitlogo.png "MCC IT Logo"
