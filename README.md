@@ -5,7 +5,7 @@
 ### Education
 <dl>
 <dt>B.S. in Management Information Systems</dt><dd>University of Nebraska at Omaha</dd>
-<dt>M.A. in Information Science and Learning Technology</dt><dd>University of Misouri - Columbia</dd>
+<dt>M.A. in Information Science and Learning Technology</dt><dd>University of Missouri - Columbia</dd>
 </dl>
 
 ### Work Experience
