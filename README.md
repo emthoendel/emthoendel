@@ -1,6 +1,4 @@
-# Lisa Thoendel
 ## Instructor & Program Lead
-## Metropolitan Community College
 ![alt text][mccit]
 
 ### Education
@@ -37,4 +35,4 @@
 
 
 [mccit]: mccitlogo.png "MCC IT Logo"
-[TDSbadge]: TDSbadge.png "Tableau Desktop Specialist badge"
+[TDSbadge]: TDSbadge.png | width=50 "Tableau Desktop Specialist badge"
