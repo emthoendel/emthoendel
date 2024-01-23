@@ -1,4 +1,5 @@
-### Hi there 👋
+#Instructor
+##Metropolitan Community College
 
 <!--
 **emthoendel/emthoendel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Education
+* UNO
+* MIZZOU
+
+
+### Work Experience
+Add here
+
+
+### Projects
