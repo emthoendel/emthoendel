@@ -29,10 +29,17 @@
 ### Projects
 
 ### Certifications & Accomplishments
-![alt text][TDSbadge]
+* Tableau Desktop Specialist
+* AWS Accredited Educator
+* AWS Cloud Practitioner
+* NISOD Excellence in Teaching Award Recipient 2023
 
 ### Technical Stack
+<img src="logos/aws.png" height=50px alt="AWS">
+<img src="logos/github.png" height=50px alt="GitHub">
+<img src="logos/mongodb.png" height=50px alt="MongoDB" >
+<img src="logos/rstudio.png" height=50px alt="R Studio">
 
 
 [mccit]: mccitlogo.png "MCC IT Logo"
-[TDSbadge]: TDSbadge.png | width=50 "Tableau Desktop Specialist badge"
+[TDSbadge]: TDSbadge.png "Tableau Desktop Specialist badge"
