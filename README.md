@@ -45,6 +45,7 @@
 <img src="logos/mysql.png" height=50px alt="MySQL">
 <img src="logos/oracle.png" height=50px alt="Oracle">
 <img src="logos/python.png" height=50px alt="Python">
+<img src="logos/tableau.png" height=50px alt="Tableau">
 
 
 [mccit]: mccitlogo.png "MCC IT Logo"
