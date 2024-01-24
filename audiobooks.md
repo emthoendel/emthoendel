@@ -3,7 +3,7 @@
 <blockquote>Audiobooks on this page are available at the linked location for free. Goodreads was referenced by title for ratings.</blockquote>
 
 <dl>
-<dt>Heretics Andrew Gold[https://tokybook.com/heretics-andrew-gold]</dt>
+<dt>(Heretics Andrew Gold)[https://tokybook.com/heretics-andrew-gold]</dt>
 <dt>Heavyweight[https://tokybook.com/heavyweight]</dt>
 <dd>Rating: 3.77</dd>
 <dt>Crime Junkie[https://tokybook.com/crime-junkie]</dt>
