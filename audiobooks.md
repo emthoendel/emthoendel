@@ -5,7 +5,7 @@
 <dl>
 <dt>(Heretics Andrew Gold)[https://tokybook.com/heretics-andrew-gold]</dt>
 
-<dd>Rating: 3.77</dd>
+<dd></dd>
 <dt>[Crime Junkie](https://tokybook.com/crime-junkie)</dt>
 <dt>[Summoner 8](https://tokybook.com/summoner-8)</dt>
 <dd>Rating: 4.49</dd>
@@ -17,3 +17,4 @@
 </dl>
 
 [Heavyweight](https://tokybook.com/heavyweight)
+  Rating: 3.77
