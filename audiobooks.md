@@ -4,7 +4,7 @@
 
 <dl>
 <dt>(Heretics Andrew Gold)[https://tokybook.com/heretics-andrew-gold]</dt>
-<dt>[Heavyweight](https://tokybook.com/heavyweight)</dt>
+
 <dd>Rating: 3.77</dd>
 <dt>[Crime Junkie](https://tokybook.com/crime-junkie)</dt>
 <dt>[Summoner 8](https://tokybook.com/summoner-8)</dt>
@@ -14,3 +14,6 @@
 <dt>[Deliver Me from Eva](https://tokybook.com/deliver-me-from-eva)</dt>
 <dd>Rating: 3.71</dd>
 <dt>[Welsh Rarebit Tales](https://tokybook.com/welsh-rarebit-tales)</dt>
+</dl>
+
+[Heavyweight](https://tokybook.com/heavyweight)
